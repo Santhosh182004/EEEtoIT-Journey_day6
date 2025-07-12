@@ -1,4 +1,4 @@
-*import java.util.*;
+import java.util.*;
 class Student{
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
@@ -12,4 +12,4 @@ class Student{
         }
         System.out.println("The number of words: "+ (sp_count));
     }
-} */
+} 
